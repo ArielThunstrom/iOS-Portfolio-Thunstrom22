@@ -1,6 +1,11 @@
 # iOS-Portfolio-Thunstrom22
 
 Hi! My name is Ariel Thunstrom and this is a portfolio of the projects I have worked on throughout high school. The first computer science class I took was AP Computer Science Principles. In that class, I made basic apps, such as a coloring app, with MIT app inventor. I have also taken CyberSecurity and AP Computer Sciene A: Java. In Cyber Security, I learned about the fundementals of staying secure online and I also gained experience with Python. In AP Computer Science A: Java, I learned the basics of Java and applied my knowledge to complete problems like Advent of Code. 
+## APCS A Projects
+* In AP Computer Science A 
+## Advent of Code 
+* Advent of Code is a series of programming problems that are released daily during the month of December. I completed these problems using java. While completing each challenged, I learned how to import data and work with arrays, ArrayLists, and 2D arrays. 
+* https://github.com/ArielThunstrom/Advent-of-Code
 ## EPHS Timer App
 * helped with UI design 
 * learned basic functionality of swift ui
