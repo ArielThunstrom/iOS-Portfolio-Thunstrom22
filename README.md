@@ -22,6 +22,9 @@ Hi! My name is Ariel Thunstrom and this is a portfolio of the projects I have wo
 
 ![UIdesign2](https://user-images.githubusercontent.com/94394689/161331092-fc0eb7d8-56a9-4e85-bd3e-79cb976430e9.png)
 
+## CyberStart America 
+* In CyberSecurity, I participated in CyberStart America and earned the bronze award. To earn this award, I completed various challenges using my knowledge of cyber security, command line, and python. 
 
+![CyberStartBadge](https://user-images.githubusercontent.com/94394689/162280272-a5139aee-bad0-438c-bc33-a939d049630f.PNG)
  
 
