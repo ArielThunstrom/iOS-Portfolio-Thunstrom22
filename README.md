@@ -36,7 +36,7 @@ Hi! My name is Ariel Thunstrom and this is a portfolio of the projects I have wo
 
 
 
-# Post It App 
+# [Post It App](https://github.com/EPHS-iOS/Spring2022GroupProject) 
 * Each year, students in AP CSP create Post-It note instalations around EPHS. In iOS App Development, we created a game that encourages students to look for the art around the school and take pictures of it in order to earn points. I was the project manager for this project, meaning I assigned tasks and ensured they got done within a reasonable time. I also helped with the UI designs. 
 ### [Download on TestFlight](https://apps.apple.com/us/app/postitapp/id1620081294)
 
