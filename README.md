@@ -1,6 +1,7 @@
 # iOS-Portfolio-Thunstrom22
-
 Hi! My name is Ariel Thunstrom and this is a portfolio of the projects I have worked on throughout high school. The first computer science class I took was AP Computer Science Principles. In that class, I made basic apps, such as a coloring app, with MIT app inventor. I have also taken CyberSecurity and AP Computer Science A: Java. In Cyber Security, I learned about the fundamentals of staying secure online and I also gained experience with Python. In AP Computer Science A: Java, I learned the basics of Java and applied my knowledge to complete problems like Advent of Code. Currently, I am taking iOS App Development.
+
+
 # [APCS A Projects](https://github.com/ArielThunstrom/AP-CS-A-2021)
 * In AP Computer Science A, I worked on many different projects and each one of them helped me to gain a deeper understanding of java. 
 
@@ -54,3 +55,7 @@ Hi! My name is Ariel Thunstrom and this is a portfolio of the projects I have wo
 ![CyberStartBadge](https://user-images.githubusercontent.com/94394689/162280272-a5139aee-bad0-438c-bc33-a939d049630f.PNG)
  
 
+# AP CSP Create Project
+* AP CSP was the first computer science classes I took as a sophmore in high school. I worked on many small projects, such as a quiz and coloring app. Part of the AP exam for this class is the create project. The create project has simple requirements, allowing lots of creative freedom. For my create project, I created a game called coffee cafe. The goal of the game is to gather all the items in the order and return to the star, without runnung into the coffe spills. I used MIT app inventor to create this project. 
+
+![Screen Shot 2022-06-06 at 8 28 05 PM](https://user-images.githubusercontent.com/94394689/172276385-4c55bc2b-12f2-4b37-996e-5fdcad87d8ed.png)
