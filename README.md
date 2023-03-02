@@ -57,5 +57,6 @@ Hi! My name is Ariel Thunstrom and this is a portfolio of the projects I have wo
 
 # AP CSP Create Project
 * AP CSP was the first computer science classes I took as a sophmore in high school. I worked on many small projects, such as a quiz and coloring app. Part of the AP exam for this class is the create project. The create project has simple requirements, allowing lots of creative freedom. For my create project, I created a game called coffee cafe. The goal of the game is to gather all the items in the order and return to the star, without runnung into the coffe spills. I used MIT app inventor to create this project. 
+* I earned a 5 on the AP exam. 
 
 ![Screen Shot 2022-06-06 at 8 28 05 PM](https://user-images.githubusercontent.com/94394689/172276385-4c55bc2b-12f2-4b37-996e-5fdcad87d8ed.png)
