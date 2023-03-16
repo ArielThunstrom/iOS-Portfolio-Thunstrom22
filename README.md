@@ -53,6 +53,8 @@ Hi! My name is Ariel Thunstrom and this is a portfolio of the projects I have wo
 * In CyberSecurity, I participated in CyberStart America. CyberStart America is a cyber security training game for high schoolers. I earned over 20,000 points on CyberStart America. I earned the bronze award for gettting over 3,000 points. I was also in the top 2,000 scores, earning a spot as a finalist for the CyberStart National Scholarship.  
 
 ![CyberStartBadge](https://user-images.githubusercontent.com/94394689/162280272-a5139aee-bad0-438c-bc33-a939d049630f.PNG)
+![finalist](https://user-images.githubusercontent.com/94394689/225640715-f2dbd691-8e8c-4ad7-a033-e358fa17d8bc.png)
+
  
 
 # AP CSP Create Project
