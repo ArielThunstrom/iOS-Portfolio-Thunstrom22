@@ -50,16 +50,6 @@ Hi! My name is Ariel Thunstrom and this is a portfolio of the projects I have wo
 
 
 
-#Study Cat 
-* The NIH recently released a study addressing how phones have dramatically altered how we work. They found an inverse correlation between the amount of time spent on your phone and one’s productivity level. Nowadays, teenagers, struggle to put there phone away even to complete small tasks or assignments. Their tendency to pick up their phone is so high that they can barely finish a task without looking at it.
-To address this prevalent problem among teens, our primary target audience, we developed a productivity app to change the way that students study.
-* My team 
-
-
-
-
-
-
 # CyberStart National Scholarship Finalist
 * In CyberSecurity, I participated in CyberStart America. CyberStart America is a cyber security training game for high schoolers. I earned over 20,000 points on CyberStart America. I earned the bronze award for gettting over 3,000 points. I was also in the top 2,000 scores, earning a spot as a finalist for the CyberStart National Scholarship.  
 
