@@ -54,11 +54,6 @@ Hi! My name is Ariel Thunstrom and this is a portfolio of the projects I have wo
 * The NIH recently released a study addressing how phones have dramatically altered how we work and study. They found an inverse correlation between the amount of time spent on your phone and one’s productivity level. Nowadays, teenagers, struggle to put there phone away even to complete small tasks or assignments. Their tendency to pick up their phone is so high that they can barely finish a task without looking at it. To address this prevalent problem among teens, our primary target audience, we developed a productivity app to change the way that students study.
 * StudyCat encourages students to study without distractions. Users can set a timer and then when the timer runs out, the user can then feed their cat. If the user exits the app, they will receive a notification prompting them to go back into the app and feed their cat. 
 
-![Hotpot 0](https://user-images.githubusercontent.com/94394689/225649154-ffcb6f24-7aa9-4ca1-9267-2374b9a72689.png)
-![Hotpot 1](https://user-images.githubusercontent.com/94394689/225649200-5b43b5dd-3b3c-4ada-888e-b9d25fe4c4af.png)
-![Hotpot 2](https://user-images.githubusercontent.com/94394689/225649243-839b0bd3-3e7f-4f4b-b416-de303e4030d1.png)
-![Hotpot 3](https://user-images.githubusercontent.com/94394689/225649268-216ab16f-84a7-42d6-9f96-cca78a88a812.png)
-![Hotpot 4](https://user-images.githubusercontent.com/94394689/225649291-df2f51f3-8114-4a88-9949-45809cf4af45.png)
 
 
 
