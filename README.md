@@ -50,11 +50,10 @@ Hi! My name is Ariel Thunstrom and this is a portfolio of the projects I have wo
 
 
 
-# [Study Cat](https://github.com/ArielThunstrom/studyTimerCats)
-* The NIH recently released a study addressing how phones have dramatically altered how we work and study. They found an inverse correlation between the amount of time spent on your phone and one’s productivity level. Nowadays, teenagers, struggle to put there phone away even to complete small tasks or assignments. Their tendency to pick up their phone is so high that they can barely finish a task without looking at it. To address this prevalent problem among teens, our primary target audience, we developed a productivity app to change the way that students study.
-* StudyCat encourages students to study without distractions. Users can set a timer and then when the timer runs out, the user can then feed their cat. If the user exits the app, they will receive a notification prompting them to go back into the app and feed their cat. 
+# [Study With Buddy](https://github.com/ArielThunstrom/loph2/tree/main)
+* Recently, studies have shown that teens get distracted by phones every 15 minutes, and once they are distracted it takes an average of 23 minutes for them to get back on track. This causes the students to lack focus, and makes it difficult to for them to succeed in classes. As upperclassmen in high school, we are constantly studying for tests and working on projects. Our homework requires our full attention, but it can be hard to focus when your phone is just sitting there, waiting for you to open TikTik or Instagram. But what if you phone could actually help you focus? Our app study buddy solves this problem.
 
-
+![p36](https://user-images.githubusercontent.com/94394689/234299565-1ab8273c-4072-4993-94d2-e7eb8c669014.png)
 
 
 
